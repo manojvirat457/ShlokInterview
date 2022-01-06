@@ -1,0 +1,10 @@
+Write a program to check whether a triangle is valid or not, when the three angles of the triangle
+are the inputs. A triangle is valid if the sum of all the three angles is equal to 180 degrees.
+
+Inputs
+20 80 80
+45 75 60
+0 90 90
+0 180 0 
+
+Write your code here.

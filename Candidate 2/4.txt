@@ -1,0 +1,11 @@
+Given an array, find the second largest element in the array.
+
+Input:
+ Arr = [ 1, 2, 4, 6, 8, 9, 12, 44, 35, 99, 0, 5 ]
+ 
+OutPut:
+44
+
+
+
+Write your code here.
